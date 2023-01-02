@@ -22,7 +22,11 @@ Work with a partner to implement the following user story:
 
 The following image demonstrates the web application's appearance and functionality:
 
+<<<<<<< HEAD
 ![The portfolio page features headings in blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-2.jpg)
+=======
+![The portfolio page features headings in blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-2.png)
+>>>>>>> db293db4ce8f08abcd7d0c752327d862ea1dfe92
 
 ---
 
