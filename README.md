@@ -23,11 +23,14 @@ Work with a partner to implement the following user story:
 The following image demonstrates the web application's appearance and functionality:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![The portfolio page features headings in blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-2.jpg)
 =======
 ![The portfolio page features headings in blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-2.png)
 >>>>>>> db293db4ce8f08abcd7d0c752327d862ea1dfe92
 
+=======
+>>>>>>> 692b51ca3f79e0a9c925826ba0a04f6357489e74
 ---
 
 ## 💡 Hints
@@ -45,3 +48,4 @@ Use [Google](https://www.google.com) or another search engine to research this.
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
