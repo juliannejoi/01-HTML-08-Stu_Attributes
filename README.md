@@ -22,8 +22,6 @@ Work with a partner to implement the following user story:
 
 The following image demonstrates the web application's appearance and functionality:
 
-![The portfolio page features headings in blue text, rounded corners on the image placeholder, and various background colors.](./assets/image-1.png)
-
 ---
 
 ## 💡 Hints
